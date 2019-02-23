@@ -1,0 +1,15 @@
+target
+
+.idea
+*.iws
+*.iml
+*.ipr
+src/test/
+
+derby.log
+out
+checkpoint
+checkpoint-ad-put
+checkpoint-ad-deal
+spark-warehouse
+logs
